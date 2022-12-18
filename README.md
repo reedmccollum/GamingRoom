@@ -1,1 +1,3 @@
 # GamingRoom
+
+The Gaming Room's project Draw It or Lose It was designed to be a web-based application with integrations of an image database. They requested a that I design said application, and offer recommendation as to which operating system to host their application on. The proccess for this project involved a lot of researching and discovering how web based applications function, and what is important for a server to function properly. I was able to truly understand the pros and cons of each operating systems in terms of server management, ane I am confindent I offered valuable advice and a well thought-out system.
